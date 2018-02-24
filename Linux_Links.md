@@ -1,1 +1,1 @@
-* [In defence of swap] (https://chrisdown.name/2018/01/02/in-defence-of-swap.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BbEhEHoHoSGe5dh0TAye6%2FQ%3D%3D)
+* [In defence of swap](https://chrisdown.name/2018/01/02/in-defence-of-swap.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BbEhEHoHoSGe5dh0TAye6%2FQ%3D%3D)
