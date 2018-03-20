@@ -3,3 +3,4 @@
 * [Security in Devops-Strategies](https://docs.google.com/presentation/d/1M4cx_zVFN7WCKybV2c7c8L0QG9gP5z78JAIELRhkVkg/edit#slide=id.p)
 * [Anatomy of an APT](https://www.youtube.com/watch?v=SZCE677ijMU&feature=youtu.be)
 * **RAT** means **Remote Access Trojan**
+* **CSIRT** means **Computer Security Incident Response Team**
