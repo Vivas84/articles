@@ -11,3 +11,6 @@
 ## Tools
 * [IRTriage](https://github.com/AJMartel/IRTriage)
 * [RAMCapturer](https://belkasoft.com/ram-capturer)
+* Raw Copy
+* FTK Imager Lite
+* LastActivityView
