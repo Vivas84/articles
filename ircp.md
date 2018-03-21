@@ -14,3 +14,5 @@
 * Raw Copy
 * FTK Imager Lite
 * LastActivityView
+## DFIR news
+* [DFIR Community Slack](https://dfircommunity.slack.com/)
