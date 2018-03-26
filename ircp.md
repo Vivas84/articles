@@ -8,6 +8,7 @@
 * [Security in Devops-Strategies](https://docs.google.com/presentation/d/1M4cx_zVFN7WCKybV2c7c8L0QG9gP5z78JAIELRhkVkg/edit#slide=id.p)
 * [Anatomy of an APT](https://www.youtube.com/watch?v=SZCE677ijMU&feature=youtu.be)
 * [RFC 3227 - Guidelines for evidence collection and archiving](http://www.faqs.org/rfcs/rfc3227.html)
+* [Demistifying Systemd](https://people.redhat.com/mskinner/rhug/q1.2014/Demystifying_Systemd.pdf)
 ## Tools
 * [IRTriage](https://github.com/AJMartel/IRTriage)
 * [RAMCapturer](https://belkasoft.com/ram-capturer)
@@ -17,3 +18,4 @@
 ## DFIR news
 * [DFIR Community Slack](https://dfircommunity.slack.com/)
 * [SANS Institute DFIR Mail List](https://lists.sans.org/mailman/listinfo/dfir)
+
