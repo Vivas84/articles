@@ -9,6 +9,7 @@
 * [Anatomy of an APT](https://www.youtube.com/watch?v=SZCE677ijMU&feature=youtu.be)
 * [RFC 3227 - Guidelines for evidence collection and archiving](http://www.faqs.org/rfcs/rfc3227.html)
 * [Demistifying Systemd](https://people.redhat.com/mskinner/rhug/q1.2014/Demystifying_Systemd.pdf)
+* [Penetration testing cheatsheet](https://techincidents.com/important-penetration-testing-cheat-sheet/)
 ## Tools
 * [IRTriage](https://github.com/AJMartel/IRTriage)
 * [RAMCapturer](https://belkasoft.com/ram-capturer)
