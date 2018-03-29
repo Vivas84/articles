@@ -15,7 +15,7 @@
 * Raw Copy
 * FTK Imager Lite
 * LastActivityView
+* [Unhide](https://sourceforge.net/projects/unhide/?source=typ_redirect)
 ## DFIR news
 * [DFIR Community Slack](https://dfircommunity.slack.com/)
 * [SANS Institute DFIR Mail List](https://lists.sans.org/mailman/listinfo/dfir)
-
