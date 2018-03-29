@@ -10,6 +10,7 @@
 * [RFC 3227 - Guidelines for evidence collection and archiving](http://www.faqs.org/rfcs/rfc3227.html)
 * [Demistifying Systemd](https://people.redhat.com/mskinner/rhug/q1.2014/Demystifying_Systemd.pdf)
 * [Penetration testing cheatsheet](https://techincidents.com/important-penetration-testing-cheat-sheet/)
+* [GDB Debugging & reversing](http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html)
 ## Tools
 * [IRTriage](https://github.com/AJMartel/IRTriage)
 * [RAMCapturer](https://belkasoft.com/ram-capturer)
