@@ -21,6 +21,7 @@
 * [Volatility profiles & LiME modules](https://bitbucket.org/securizame/volatility-profiles-and-lime-modules)
 ## Virtualization helpers
 * [Virtual storage conversion](https://www.dedoimedo.com/computers/virtualbox-convert.html)
+* [Grouping Virtual Machines](http://www.sysprobs.com/how-to-create-manage-vm-groups-in-virtualbox-virtual-machines)
 ## DFIR news
 * [DFIR Community Slack](https://dfircommunity.slack.com/)
 * [SANS Institute DFIR Mail List](https://lists.sans.org/mailman/listinfo/dfir)
