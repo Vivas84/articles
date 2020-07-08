@@ -8,3 +8,4 @@
 
 [Artículo 2: Linters](https://medium.com/@gonzaloandres.diaz/escribiendo-codigo-de-alta-calidad-en-python-parte-2-linters-64ffd8d2df91)
 
+[Artículo 3: Automatizando los linters con Git Hooks](https://medium.com/@gonzaloandres.diaz/escribiendo-codigo-de-alta-calidad-en-python-parte-3-hooks-f3970a4bcdd7)
